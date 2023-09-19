@@ -1,0 +1,7 @@
+reviewId (PK),barInfo (FK) barId,Rating,Review
+1,1,9,"Very good everything was nice, but it could be a little cleaner"
+2,2,8,Good Drinks
+3,3,10,Liked the atmosphere
+4,4,7,Was a fun time
+5,5,10,Fun with friends
+6,6,5,Staff was not the best

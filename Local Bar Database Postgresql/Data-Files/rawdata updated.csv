@@ -1,0 +1,48 @@
+barInfo,,,
+barID INT Primary Key,barName VARCHAR(255),age INT,
+1,The Boot,21,
+2,Tj Quill's,25,
+3,The Palms,30,
+4,Snake and Jakes,35,
+5,Bruno's Tavern,23,
+6,Redd's Uptilly Tavern,32,
+,,,
+,,,
+barTheme,,,
+themeID,barID,theme,
+1,1,college,
+2,2,generic,
+3,3,club,
+4,4,dive,
+5,5,bar/resturaunt,
+6,6,sports,
+,,,
+barLocation,,,
+locationID,barID,location,
+1,1,"1039 Broadway St, New Orleans, LA 70118",
+2,2,"7600 Maple St, New Orleans, LA 70118",
+3,3,"7130 Freret St, New Orleans, LA 70118",
+4,4,"7612 Oak St, New Orleans, LA 70118",
+5,5,"7538 Maple St, New Orleans, LA 70118",
+6,6,"7601 Maple St, New Orleans, LA 70118",
+,,,
+barRating,,,
+ratingID,barID,rating INT,review VARCHAR
+1,1,9,"Very good everything was nice, but it could be a little cleaner"
+2,2,8,Good Drinks
+3,3,10,Liked the atmosphere
+4,4,7,Was a fun time
+5,5,10,Fun with friends
+6,6,5,Staff was not the best
+,,,
+deals,,,
+dealID,dealDescription,dealPrice,
+1,2 for 1 Beers,5,
+2,Gameday Gin,7,
+3,Sunday Doubles,10,
+,,,
+schedule,,,
+sheduleID,barID,dealID,dayOfTheWeek VARCHAR
+1,2,2,monday
+2,5,1,wednesday
+3,1,3,friday

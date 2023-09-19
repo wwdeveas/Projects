@@ -1,0 +1,7 @@
+locationID (PK),barInfo (FK),address
+1,1,"1039 Broadway St, New Orleans, LA 70118"
+2,2,"7600 Maple St, New Orleans, LA 70118"
+3,3,"7130 Freret St, New Orleans, LA 70118"
+4,4,"7612 Oak St, New Orleans, LA 70118"
+5,5,"7538 Maple St, New Orleans, LA 70118"
+6,6,"7601 Maple St, New Orleans, LA 70118"

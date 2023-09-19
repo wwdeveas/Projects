@@ -1,0 +1,7 @@
+dealSundayId (PK),barInfo (FK),deal
+1,1,2 for 1 Beers
+2,2,Gameday Gin
+3,3,Sunday Doubles
+4,4,Pitcher Day
+5,5,Brunch Mimosas
+6,6,Half Price Drinks

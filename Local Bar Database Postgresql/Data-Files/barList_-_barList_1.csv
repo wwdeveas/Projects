@@ -1,0 +1,9 @@
+barID (PK),Name,Age,Theme
+1,The Boot,21,college
+2,Tj Quill's,25,generic
+3,The Palms,30,club
+4,Snake and Jakes,35,dive
+5,Bruno's Tavern,23,bar/resturaunt
+6,Redd's Uptilly Tavern,32,sports
+,,,
+^This is how it is set up in a CSV/Table as well,,,
